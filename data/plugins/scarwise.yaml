@@ -1,0 +1,4 @@
+name: Scarwise
+repo: https://github.com/DomitorAI/scarwise
+tagline: Learns from failed tool calls, stops repeat mistakes
+description: An OpenCode plugin (also hooks for Claude Code, Codex, Gemini CLI and others) that learns by itself from failed tool calls – a call fails, then succeeds another way – and stops the same mistake before it runs, in any of your agents. Local, no rules to write; install with npm install -g scarwise.
